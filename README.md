@@ -1,5 +1,5 @@
 # Feature Selection Machine Learning
-Answer to how to select variables in data set and build simpler, faster, more reliable and interpretable machine learning models
+Answer of how to select variables in data set and build simpler, faster, more reliable and interpretable machine learning models
 
 <hr>
 
