@@ -7,10 +7,11 @@ Answer of how to select variables in data set and build simpler, faster, more re
   <kbd><img src="https://github.com/MvMukesh/Feature-Selection-ML/blob/main/images/feature-selection.png" height='400' width='900'/> </kbd>
   
 1. Feature Selection Methods
-* Filter Methods
-* Wrapper Methods
-* Embedded/Hybrid Methods
-* Moving Forward
+  
+  * Filter Methods
+  * Wrapper Methods
+  * Embedded / Hybrid Methods
+  * Moving Forward
 
 | Feature Selection Methods | Code + Blog Link| Video Link |
 |------------------------------------|-----------------|------------|
@@ -34,13 +35,89 @@ Answer of how to select variables in data set and build simpler, faster, more re
 
 3. Feature Selection -- Correlation
 
-* Removing Correlated Features
-* Basic Selection Methods + Correlation -> Pipeline
+  * Removing Correlated Features
+  * Basic Selection Methods + Correlation -> Pipeline
 
-
-| Feature Selection -- Basic Methods | Code + Blog Link| Video Link |
+| Feature Selection -- Correlation | Code + Blog Link| Video Link |
 |------------------------------------|-----------------|------------|
 | | | |
 | | | |
 | | | |
 
+## `Filter Methods`
+4. Univariate Statistical Methods
+  * Mutual Information
+  * Chi-square distribution
+  * Anova
+  * Basic Selection Methods + Statistical Methods -> Pipeline
+
+| Univariate Statistical Methods -- Filter Method | Code + Blog Link| Video Link |
+|-------------------------------------------------|-----------------|------------|
+| | | |
+| | | |
+| | | |
+  
+5. Other Methods and Metrics
+  * Univariate ROC-AUC, MSE etc
+  * Method used in a KDD competition - 2009
+  
+## `Wrapper Methods`
+6. Wrapper Methods
+  * Forward Feature Selection
+  * Backward Feature Selection
+  * Exhaustive Feature Selection
+  
+| Wrapper Methods -- Feature Selection| Code + Blog Link| Video Link |
+|-------------------------------------|-----------------|------------|
+| | | |
+| | | |
+| | | |
+ 
+## `Embedded Methods`
+7. Linear Model Coefficients 
+  * Logistic Regression Coefficients
+  * Linear Regression Coefficients
+  * Effect of Regularization on Coefficients
+  * Basic Selection Methods + Correlation + Embedded -> Pipeline
+
+| Linear Model Coefficients| Code + Blog Link| Video Link |
+|--------------------------|-----------------|------------|
+| | | |
+| | | |
+| | | |
+  
+8. Lasso
+  * Lasso
+  * Basic Selection Methods + Correlation + Lasso -> Pipeline
+
+| Lasso| Code + Blog Link| Video Link |
+|------|-----------------|------------|
+| | | |
+| | | |
+| | | |
+  
+9. Tree Importance
+  * Random Forest derived Feature Importance
+  * Tree importance + Recursive Feature Elimination
+  * Basic Selection Methods + Correlation + Tree importance -> Pipeline 
+  
+| Tree Importance| Code + Blog Link| Video Link |
+|----------------|-----------------|------------|
+| | | |
+| | | |
+| | | |
+ 
+## `Hybrid Methods`
+10. Hybrid Methods
+  * Feature Shuffling
+  * Recursive Feature Elimination
+  * Recursive Feature Addition
+  
+| Hybrid Methods| Code + Blog Link| Video Link |
+|----------------|-----------------|------------|
+| | | |
+| | | |
+| | | |  
+  
+  
+  
