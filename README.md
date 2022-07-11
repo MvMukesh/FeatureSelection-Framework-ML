@@ -7,10 +7,17 @@ Answer of how to select variables in data set and build simpler, faster, more re
   <kbd><img src="https://github.com/MvMukesh/Feature-Selection-ML/blob/main/images/feature-selection.png" height='400' width='900'/> </kbd>
   
 1. Feature Selection Methods
-  
   * Filter Methods
+    * Variance 
+    * Correlation
+    * Univariate Selection
   * Wrapper Methods
+    * Forward Feature Selection
+    * Backword Feature Elemenation
+    * Exaustive Search
   * Embedded / Hybrid Methods
+    * LASSO
+    * Tree Importance
   * Moving Forward
 
 | Feature Selection Methods | Code + Blog Link| Video Link |
