@@ -123,8 +123,6 @@ Answer of how to select variables in data set and build simpler, faster, more re
 | Hybrid Methods| Code + Blog Link| Video Link |
 |----------------|-----------------|------------|
 | | | |
-
-
 | | | |
 | | | |  
   
