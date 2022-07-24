@@ -6,7 +6,7 @@ Answer of how to select variables in data set and build simpler, faster, more re
 <p align="center">
   <kbd><img src="https://github.com/MvMukesh/Feature-Selection-ML/blob/main/images/feature-selection.png" height='400' width='900'/> </kbd>
   
-1. Feature Selection Methods
+1. `Feature Selection Methods`
   * Filter Methods
     * Variance 
     * Correlation
@@ -26,7 +26,7 @@ Answer of how to select variables in data set and build simpler, faster, more re
 | | | |
 | | | |
  
- 2. Feature Selection -- Basic Methods
+ 2. Feature Selection -- `Basic Methods`
    
   * Removing 
     * Constant Features
@@ -40,7 +40,7 @@ Answer of how to select variables in data set and build simpler, faster, more re
 | | | |
 
 
-3. Feature Selection -- Correlation
+3. Feature Selection -- `Correlation`
 
   * Removing Correlated Features
   * Basic Selection Methods + Correlation -> Pipeline
@@ -52,7 +52,7 @@ Answer of how to select variables in data set and build simpler, faster, more re
 | | | |
 
 ## `Filter Methods`
-4. Univariate Statistical Methods
+4. `Univariate Statistical Methods`
   * Mutual Information
   * Chi-square distribution
   * Anova
@@ -64,12 +64,12 @@ Answer of how to select variables in data set and build simpler, faster, more re
 | | | |
 | | | |
   
-5. Other Methods and Metrics
+5. `Other Methods and Metrics`
   * Univariate ROC-AUC, MSE etc
   * Method used in a KDD competition - 2009
   
 ## `Wrapper Methods`
-6. Wrapper Methods
+6. `Wrapper Methods`
   * Forward Feature Selection
   * Backward Feature Selection
   * Exhaustive Feature Selection
@@ -81,7 +81,7 @@ Answer of how to select variables in data set and build simpler, faster, more re
 | | | |
  
 ## `Embedded Methods`
-7. Linear Model Coefficients 
+7. `Linear Model Coefficients` 
   * Logistic Regression Coefficients
   * Linear Regression Coefficients
   * Effect of Regularization on Coefficients
@@ -93,7 +93,7 @@ Answer of how to select variables in data set and build simpler, faster, more re
 | | | |
 | | | |
   
-8. Lasso
+8. `Lasso`
   * Lasso
   * Basic Selection Methods + Correlation + Lasso -> Pipeline
 
@@ -103,7 +103,7 @@ Answer of how to select variables in data set and build simpler, faster, more re
 | | | |
 | | | |
   
-9. Tree Importance
+9. `Tree Importance`
   * Random Forest derived Feature Importance
   * Tree importance + Recursive Feature Elimination
   * Basic Selection Methods + Correlation + Tree importance -> Pipeline 
@@ -115,7 +115,7 @@ Answer of how to select variables in data set and build simpler, faster, more re
 | | | |
  
 ## `Hybrid Methods`
-10. Hybrid Methods
+10. `Hybrid Methods`
   * Feature Shuffling
   * Recursive Feature Elimination
   * Recursive Feature Addition
@@ -123,6 +123,8 @@ Answer of how to select variables in data set and build simpler, faster, more re
 | Hybrid Methods| Code + Blog Link| Video Link |
 |----------------|-----------------|------------|
 | | | |
+
+
 | | | |
 | | | |  
   
