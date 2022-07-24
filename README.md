@@ -2,6 +2,8 @@
 Answer of how to select variables in data set and build simpler, faster, more reliable and interpretable machine learning models
 
 <hr>
+<p align="right">
+  <img src="https://github.com/MvMukesh/Feature-Selection-ML/blob/main/images/working_on_it.gif" height='90' width='170'/>
 
 <p align="center">
   <kbd><img src="https://github.com/MvMukesh/Feature-Selection-ML/blob/main/images/feature-selection.png" height='400' width='900'/> </kbd>
