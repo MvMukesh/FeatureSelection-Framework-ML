@@ -5,7 +5,7 @@ Answer of how to select variables in data set and build simpler, faster, more re
 <p align="center">
   <kbd><img src="https://user-images.githubusercontent.com/26667491/221211426-ad4fa8ec-e8cc-46c1-8c8f-74608f5f4289.png" height='300' width='1000'/> </kbd>
 <p align="right">
-  <img src="https://github.com/MvMukesh/Feature-Selection-ML/blob/main/images/working_on_it.gif" height='90' width='170'/>
+  <!-- <img src="https://github.com/MvMukesh/Feature-Selection-ML/blob/main/images/working_on_it.gif" height='90' width='170'/> -->
 
   
 1. `Feature Selection Methods`
