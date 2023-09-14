@@ -19,6 +19,11 @@ Answer of how to select variables in data set and build simpler, faster, more re
 * Less information to log
 ---
 
+### How to make Features selection part of Pipeline ????
+Feature Selection can be the part of Pipeline, but it is good to select Feature ahead before building pipeline and make the list of selected features part of the pipeline we want to deploy.
+
+---
+
 | Feature Selection Method | Nature            | Pros       | Cons |
 |--------------------------|-----------------|------------|--------|
 | `Filter Methods`           |Independent of ML Algorithm <br> Based only on variable characteristics | Quick Feature Removal <br> Model Agnostic <br> Fast Computation| Does not capture redundancy <br> Does not capture feature interaction <br> Poor model performance |
