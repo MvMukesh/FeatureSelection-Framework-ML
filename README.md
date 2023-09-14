@@ -1,6 +1,15 @@
 # FeatureSelection-Framework-ML
 Answer of how to select variables in data set and build simpler, faster, more reliable and interpretable machine learning models
 
+---
+### Why Do we Select Features?
+* Easier to implement by software developers --> Model Production
+* Enhance generalisation by reducing overfitting
+* Reduced risk of data errors during model use
+* Simple model are easier to interpret
+* Short training time
+* Data redundancy
+
 <hr>
 <p align="center">
   <img src="https://user-images.githubusercontent.com/26667491/221222048-042bff14-e7f4-4173-9f72-af723c5dee3c.gif" height='300' width='700'/>
