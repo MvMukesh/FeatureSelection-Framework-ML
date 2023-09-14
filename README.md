@@ -9,6 +9,14 @@ Answer of how to select variables in data set and build simpler, faster, more re
 * Simple model are easier to interpret
 * Short training time
 * Data redundancy
+---
+### Why?? Reducing Features for Model Deployment
+* Smaller json messages sent over to the model
+  * Json messages contain only necessary variables / inputs
+* Less lines of code for error handling
+  * Error handlers need to be written for each variable / input
+* Less feature engineering code
+* Less information to log
 
 <hr>
 <p align="center">
