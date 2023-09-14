@@ -40,6 +40,12 @@ Answer of how to select variables in data set and build simpler, faster, more re
     * Tree Importance
   * Moving Forward
 
+| Feature Selection Method | Nature            | Pros       | Cons |
+|--------------------------|-----------------|------------|--------|
+| `Filter Methods`           |Independent of ML Algorithm <br> Based only on variable characteristics | Quick Feature Removal <br> Model Agnostic <br> Fast Computation| Does not capture redundancy <br> Does not capture feature interaction <br> Poor model performance |
+| `Wrapper Methods` / Greedy Algorithms          |Consider ML Algorithm <br> Evaluates subsets/grop of Features | Considers feature interaction <br> Best performance <br> Best feature subset for a given algorithm | Not model agnostic <br> Computation expensive <br> Often impracticable |
+| `mbedded Methods `        | | | |
+
 | Feature Selection Methods | Code + Blog Link| Video Link |
 |------------------------------------|-----------------|------------|
 | | | |
