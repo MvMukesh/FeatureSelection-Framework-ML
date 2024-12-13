@@ -1,4 +1,8 @@
 # FeatureSelection-Framework-ML
+
+[![GitHub Issues](https://img.shields.io/github/issues/MvMukesh/FeatureSelection-Framework-ML.svg) ![GitHub followers](https://img.shields.io/github/followers/MvMukesh.svg?style=social\&label=Follow\&maxAge=2592000)](https://github.com/MvMukesh?tab=followers) [![GitHub forks](https://img.shields.io/github/forks/MvMukesh/FeatureSelection-Framework-ML.svg?style=social\&label=Fork\&maxAge=2592000)](https://github.com/MvMukesh/FeatureSelection-Framework-ML/network/) [![GitHub stars](https://img.shields.io/github/stars/MvMukesh/FeatureSelection-Framework-ML.svg?style=social\&label=Star\&maxAge=2592000)](https://github.com/MvMukesh/FeatureSelection-Framework-ML/stargazers/)
+
+
 Answer of how to select variables in data set and build simpler, faster, more reliable and interpretable machine learning models
 
 ---
